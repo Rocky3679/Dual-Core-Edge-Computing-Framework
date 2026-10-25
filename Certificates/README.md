@@ -1,4 +1,4 @@
-# Project Credentials & Peer-Reviewed Presentation (`Certificates/`)
+# Project Credentials & Peer-Reviewed Presentation 
 
 **Document ID:** CERT-APFC-LDM-2026-REV2  
 **Classification:** Academic, Peer-Review & Conference Presentation Credentials  

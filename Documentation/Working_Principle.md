@@ -1,4 +1,4 @@
-# Mathematical Formulation & Operational Principle (`Working_Principle.md`)
+# Mathematical Formulation & Operational Principle 
 
 This document provides the foundational engineering principles, discrete-time mathematics, neural network edge-inference mechanisms, and FreeRTOS task synchronization models governing the **Dual-Core Edge Computing Framework for Power Factor Correction (PFC) and Load Demand Management (LDM)**.
 

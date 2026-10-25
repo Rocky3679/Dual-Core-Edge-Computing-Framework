@@ -1,4 +1,4 @@
-# Hardware Validation & Transient Demonstration Media (`Videos/`)
+# Hardware Validation & Transient Demonstration Media
 
 **Document ID:** VID-DEMO-APFC-2026-REV2  
 **Target Platform:** ESP32 DevKit V1 Hardware Test Bench  

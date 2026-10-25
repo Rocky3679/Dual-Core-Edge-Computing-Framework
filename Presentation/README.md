@@ -1,4 +1,4 @@
-# Project Defense & Technical Presentation (`Presentation/`)
+# Project Defense & Technical Presentation
 
 **Document ID:** PRES-APFC-LDM-2026-REV2  
 **Target Platform:** Dual-Core ESP32 Edge Power Quality Architecture  

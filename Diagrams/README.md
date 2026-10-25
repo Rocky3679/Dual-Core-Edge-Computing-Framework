@@ -1,4 +1,4 @@
-# System Architecture, Simulation & Vector Diagrams (`Diagrams/`)
+# System Architecture, Simulation & Vector Diagrams 
 
 **Document ID:** ARCH-SIM-APFC-2026-REV2  
 **Target Subsystems:** Dual-Core FreeRTOS Pipeline, MATLAB/Simulink Digital Twin, Phasor Vector Analysis  

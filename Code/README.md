@@ -1,4 +1,4 @@
-# Embedded Firmware Architecture (`Code/`)
+# Embedded Firmware Architecture 
 
 This directory contains the production firmware running on the ESP32 DevKit V1 (Xtensa Dual-Core 32-bit LX6 @ 240 MHz), implementing deterministic edge control via FreeRTOS.
 

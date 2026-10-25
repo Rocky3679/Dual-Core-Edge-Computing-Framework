@@ -1,4 +1,4 @@
-# Hardware Diagnostics & Troubleshooting Guide (`Troubleshooting.md`)
+# Hardware Diagnostics & Troubleshooting Guide 
 
 **Document ID:** DIAG-APFC-LDM-2026-REV2  
 **Target Platform:** ESP32 DevKit V1 (Xtensa Dual-Core LX6 @ 240 MHz)  
